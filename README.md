@@ -13,7 +13,7 @@ or
 Setup and compile it yourself (if you dont trust the release).
 
 ## Features
-- Now **Forces** the account owner to logout - using an SSID/Session ID to login will now kick-out the other account owner!
+- **NEW UPDATE!** Now **Forces** the account owner to logout - using an SSID/Session ID to login will now kick-out the other account owner!
 - Login into an account with a Session ID 
 - Restore your original Session
 - Shows if the Session ID is valid(THIS DOES NOT WORK IF YOU HAVE PIZZA CLIENT SESSION PROTECTION ENABLED) and if the account is currently online on Hypixel
